@@ -1,3 +1,5 @@
+**Note:** this README is still a work in progress. To contribute to it, fork this repo and submit a pull request. Sections that have 'TO DO' require updates.
+
 # Angular wrapper for Haven OnDemand
 
 Official Angular wrapper to help with calling [Haven OnDemand APIs](http://havenondemand.com).
